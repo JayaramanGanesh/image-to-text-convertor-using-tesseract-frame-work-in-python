@@ -1,0 +1,13 @@
+
+===============================================================
+python3        - version   = 3.7.8
+
+pytesseract    - version   =  0.3.10
+
+opencv-python  - version   = 4.6.0.66
+
+Pillow         - version   = 9.2.0
+
+=============================================================
+
+pytesseract ex file link =  "https://sourceforge.net/projects/tesseract-ocr-alt/"
